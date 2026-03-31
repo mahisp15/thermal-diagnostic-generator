@@ -1,3 +1,5 @@
+> ⚠️ Note: Sample PDFs are included for demonstration. Replace with your own inspection and thermal reports for real use.
+
 # Thermal Diagnostic Report Generator
 
 This project automates the extraction and correlation of inspection data from sample and thermal report PDFs to generate a comprehensive diagnostic report.
