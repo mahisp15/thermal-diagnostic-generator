@@ -1,0 +1,11 @@
+# Environment variables - DO NOT COMMIT
+.env
+
+# Python cache and compiled files
+__pycache__/
+*.pyc
+
+# Output directories and files
+output/
+*.md
+*.json
